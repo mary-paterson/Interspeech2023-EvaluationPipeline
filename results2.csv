@@ -1,0 +1,70 @@
+,RecordingID,Sound,Type,Date,SubjectID,Sex,Age,Pathology,DT_pred,RF_pred,SVM_pred,LR_pred
+0,100,a,n,19/01/1998,117,m,66,Healthy,n,n,p,n
+1,100,i,n,19/01/1998,117,m,66,Healthy,n,n,n,n
+2,100,u,n,19/01/1998,117,m,66,Healthy,n,n,n,n
+3,1005,a,n,29/10/1998,804,m,43,Healthy,n,p,p,p
+4,1005,i,n,29/10/1998,804,m,43,Healthy,n,n,n,n
+5,1005,u,n,29/10/1998,804,m,43,Healthy,n,n,n,n
+6,1008,a,n,29/10/1998,808,m,50,Healthy,n,n,n,n
+7,1008,i,n,29/10/1998,808,m,50,Healthy,n,n,n,n
+8,1008,u,n,29/10/1998,808,m,50,Healthy,n,n,n,n
+9,1025,a,n,02/11/1998,824,m,42,Healthy,n,p,p,p
+10,1025,i,n,02/11/1998,824,m,42,Healthy,n,n,n,n
+11,1025,u,n,02/11/1998,824,m,42,Healthy,n,n,n,n
+12,110,a,p,21/01/1998,1307,m,62,Vocal cord cancer,n,p,n,p
+13,110,i,p,21/01/1998,1307,m,62,Vocal cord cancer,n,n,p,n
+14,110,u,p,21/01/1998,1307,m,62,Vocal cord cancer,p,p,p,p
+15,1239,a,p,10/02/1999,1625,m,57,Vocal cord cancer,p,p,p,p
+16,1239,i,p,10/02/1999,1625,m,57,Vocal cord cancer,p,p,n,n
+17,1239,u,p,10/02/1999,1625,m,57,Vocal cord cancer,p,p,n,n
+18,1245,a,p,17/02/1999,1625,m,57,Vocal cord cancer,p,p,p,p
+19,1245,i,p,17/02/1999,1625,m,57,Vocal cord cancer,p,p,p,p
+20,1245,u,p,17/02/1999,1625,m,57,Vocal cord cancer,n,p,n,p
+21,1403,a,p,09/06/1999,1659,m,64,Vocal cord cancer,n,p,p,p
+22,1403,i,p,09/06/1999,1659,m,64,Vocal cord cancer,p,p,p,n
+23,1403,u,p,09/06/1999,1659,m,64,Vocal cord cancer,p,p,p,p
+24,1472,a,p,20/10/1999,1636,m,72,Carcinoma in situ,p,p,n,n
+25,1472,i,p,20/10/1999,1636,m,72,Carcinoma in situ,p,p,p,p
+26,1472,u,p,20/10/1999,1636,m,72,Carcinoma in situ,p,p,p,p
+27,1560,a,p,15/12/1999,1867,m,45,Hypopharyngeal tumor,n,n,n,n
+28,1560,i,p,15/12/1999,1867,m,45,Hypopharyngeal tumor,p,p,n,n
+29,1560,u,p,15/12/1999,1867,m,45,Hypopharyngeal tumor,p,p,n,n
+30,157,a,n,11/02/1998,142,w,54,Healthy,n,p,p,p
+31,157,i,n,11/02/1998,142,w,54,Healthy,p,p,p,p
+32,157,u,n,11/02/1998,142,w,54,Healthy,n,p,n,n
+33,1714,a,p,31/05/2000,1995,w,51,Vocal cord cancer,n,p,n,n
+34,1714,i,p,31/05/2000,1995,w,51,Vocal cord cancer,p,p,p,p
+35,1714,u,p,31/05/2000,1995,w,51,Vocal cord cancer,p,p,p,p
+36,1942,a,p,07/02/2001,1659,m,66,Larynx tumor,p,p,p,p
+37,1942,i,p,07/02/2001,1659,m,66,Larynx tumor,p,p,n,n
+38,1942,u,p,07/02/2001,1659,m,66,Larynx tumor,p,p,p,p
+39,1968,a,p,07/03/2001,2178,w,58,Larynx tumor,p,p,n,p
+40,1968,i,p,07/03/2001,2178,w,58,Larynx tumor,p,n,n,n
+41,1968,u,p,07/03/2001,2178,w,58,Larynx tumor,n,p,p,p
+42,2069,a,p,25/07/2001,2258,m,51,Larynx tumor,p,p,n,n
+43,2069,i,p,25/07/2001,2258,m,51,Larynx tumor,p,p,n,n
+44,2069,u,p,25/07/2001,2258,m,51,Larynx tumor,p,p,n,n
+45,2343,a,p,15/05/2002,2477,m,75,Vocal cord cancer,p,p,p,p
+46,2343,i,p,15/05/2002,2477,m,75,Vocal cord cancer,p,n,n,n
+47,2343,u,p,15/05/2002,2477,m,75,Vocal cord cancer,p,p,p,n
+48,64,a,n,12/01/1998,64,w,65,Healthy,p,n,n,n
+49,64,i,n,12/01/1998,64,w,65,Healthy,n,n,n,p
+50,64,u,n,12/01/1998,64,w,65,Healthy,n,n,n,n
+51,66,a,n,12/01/1998,66,m,61,Healthy,p,n,n,n
+52,66,i,n,12/01/1998,66,m,61,Healthy,p,n,n,n
+53,66,u,n,12/01/1998,66,m,61,Healthy,p,n,n,n
+54,72,a,n,12/01/1998,75,w,58,Healthy,n,n,n,n
+55,72,i,n,12/01/1998,75,w,58,Healthy,n,n,n,n
+56,72,u,n,12/01/1998,75,w,58,Healthy,n,n,n,n
+57,74,a,n,12/01/1998,77,m,57,Healthy,p,n,p,p
+58,74,i,n,12/01/1998,77,m,57,Healthy,n,p,p,p
+59,74,u,n,12/01/1998,77,m,57,Healthy,p,n,p,n
+60,820,a,p,24/06/1998,1432,m,69,Dysplastic larynx,n,n,n,p
+61,820,i,p,24/06/1998,1432,m,69,Dysplastic larynx,p,p,n,n
+62,820,u,p,24/06/1998,1432,m,69,Dysplastic larynx,p,p,n,n
+63,92,a,n,16/01/1998,108,m,68,Healthy,p,p,n,n
+64,92,i,n,16/01/1998,108,m,68,Healthy,p,p,n,n
+65,92,u,n,16/01/1998,108,m,68,Healthy,n,n,n,n
+66,940,a,p,14/10/1998,1532,m,38,Larynx tumor,p,p,p,p
+67,940,i,p,14/10/1998,1532,m,38,Larynx tumor,p,p,p,p
+68,940,u,p,14/10/1998,1532,m,38,Larynx tumor,p,p,p,p
